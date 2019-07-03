@@ -1,0 +1,9 @@
+.centrado {
+    text-align: center;
+}
+
+.custom {
+    display: flex;
+    align-content: center;
+    align-items: center;
+}
